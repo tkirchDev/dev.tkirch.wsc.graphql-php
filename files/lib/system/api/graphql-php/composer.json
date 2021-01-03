@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "./",
+        "prepend-autoloader": false
+    },
+    "require": {
+        "graphql-php": "~14.0"
+    }
+}
